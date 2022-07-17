@@ -6,4 +6,9 @@ Playing with react-router-dom.
   - NavLink
   - qs
 - withRouter + class component + prevent goBack
+
   - history.listen
+
+---
+
+##### &copy; bbangarnic
